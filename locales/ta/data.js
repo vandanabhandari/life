@@ -1,5 +1,5 @@
 export default {
-    question: `Do you have verified data and want to add to the database?`,
+    question: `உங்களிடம் சரிபார்க்கப்பட்ட தரவு இருக்கிறதா மற்றும் தரவுத்தளத்தில் சேர்க்க விரும்புகிறீர்களா?`,
     sourceType: `Source, Type, Delivery`,
     medicineInjection: `Medicine/Injection/Chemist`,
     medicineDes: `Distributor, Category, Address`,
